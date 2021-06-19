@@ -95,7 +95,7 @@
 
     <inertial>
       <origin xyz="0 0 1"/>
-      <mass value="1"/>
+      <mass value="5"/>
     </inertial>
 
     <visual>
