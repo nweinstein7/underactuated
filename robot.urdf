@@ -72,7 +72,7 @@
     <visual>
       <origin xyz="0 0 .5"/>
       <geometry>
-        <cylinder length="1" radius=".01"/>
+        <cylinder length="1.2" radius=".01"/>
       </geometry>
       <material>
         <color rgba="1 0 0 1"/>
