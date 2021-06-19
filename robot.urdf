@@ -118,7 +118,7 @@
 
   </joint>
 
-  <!-- swing leg -->
+  <!-- swing leg 
 
   <link name="swing_leg">
 
@@ -156,5 +156,6 @@
     <axis xyz="0 -1 0"/>
 
   </joint>
+-->
 
 </robot>
